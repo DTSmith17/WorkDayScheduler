@@ -8,14 +8,27 @@ This daily planner application allows users to create and manage their daily sch
 ### Features
 
 - Displays the current day at the top of the calendar.
+
+![Currnet day and time](<images/Screenshot 2024-03-03 122710.png>)
+
 - Presents time blocks for standard business hours (9am to 5pm).
 - Color-codes each time block to indicate past, present, or future.
+
+![Color coded Time-blocks](<images/Screenshot 2024-03-03 122719.png>)
+
+
 - Allows users to enter events by clicking into a time block.
 - Saves events to local storage when the save button for a time block is clicked.
+
+![Local Storage saved activities](<images/Screenshot 2024-03-03 122856.png>)
+
 - Persists saved events even after refreshing the page.
+
+![Saved Activites](<images/Screenshot 2024-03-03 122809.png>)
 
 ### Usage
 
+When someone visits, https://dtsmith17.github.io/WorkDayScheduler/, they have the ability to:
 1. Open the daily planner application.
 2. View the current day displayed at the top of the calendar.
 3. Scroll through time blocks for standard business hours (9am to 5pm).
