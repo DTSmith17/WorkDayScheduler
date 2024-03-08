@@ -28,7 +28,7 @@ This daily planner application allows users to create and manage their daily sch
 
 ### Usage
 
-When someone visits, [Work Day Scheduler](https://dtsmith17.github.io/WorkDayScheduler/) , they have the ability to:
+When someone visits, <a href="https://dtsmith17.github.io/WorkDayScheduler/">Work Day Scheduler Link </a>, they have the ability to:
 1. Open the daily planner application.
 2. View the current day displayed at the top of the calendar.
 3. Scroll through time blocks for standard business hours (9am to 5pm).
@@ -39,7 +39,7 @@ When someone visits, [Work Day Scheduler](https://dtsmith17.github.io/WorkDaySch
 5. Click into a time block to enter an event.
 6. Click the save button for that time block to save the event in local storage.
 7. Saved events persist even after refreshing the page.
-
+<a href="https://dtsmith17.github.io/WorkDayScheduler/">
 ### Technologies Used
 
 - HTML
